@@ -1,23 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+/**
+ * Root React component
+ */
 
+//DEPENDENCIES
+import React from 'react';
+//Styling
+import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+//Components
+import TaskList from './components/TaskList';
+import Weather from './components/Weather';
+
+/**
+ * Define root react component
+ * @returns The root react component
+ */
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <h1>Simple Task Manager</h1>
+      <Weather />
+      <TaskList />
     </div>
   );
 }
