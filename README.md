@@ -15,14 +15,14 @@ Given the size limitations of traditional web storage solutions:
 ## Result:
 The new IndexedDB solution effectively resolved the image persistence issue, enabling the seamless saving and retrieval of large image files associated with the music event drafts. This enhancement significantly improved the user experience by ensuring that draft data, including complex images, was robustly stored and available across sessions.
 # How do your career aspirations align with our company mission?
-- Streamlining business operations is important for any business, and as it is Sendatradie's mission, I am very eager to contribute to the innovative solution it provides for Tradesmen industries.
+- Streamlining business operations is important for any business, and as it is Sendatradie's mission, I am very eager to contribute to the innovative solutions it provides for Tradesmen industries.
 - Sendatradie's dedication to innovation and customer success provides me with a unique and rewarding opportunity kickstart my career in the field of IT by delivering real-world solutions to satisfied customers.
 # What are some of your strengths and weaknesses as a developer?
 ## Strengths
 - I learn new technologies quickly and enjoy the process of continuous learning and adaptation.
 - I am naturally curious and tend to think of unique solutions to problems.
 - I am not afraid to ask questions and explore the reasons behind decisions.
-- I have good teamwork skills I have developed through general team activities as well as group software development tasks during University.
+- I have good teamwork skills which I have developed through general team activities as well as group software development tasks during University.
 - I am quite resilient when it comes to solving problems, although this can be a double-edged sword.
 ## Weaknesses
 - I can sometimes spend too long when stuck on a task, where it would be better to ask for assistance.
